@@ -1,0 +1,161 @@
+body {
+  text-align: center;
+  font-size: 22px;
+  line-height: 35px;
+}
+
+button {
+  background: none;
+  border: none;
+  font-size: inherit;
+  font-family: inherit;
+}
+
+label {
+  color: black;
+  margin: 10px 0;
+  display: block;
+}
+
+option {
+  padding-block-start: 10px;
+  padding-block-end: 10px;
+  padding-inline-start: 10px;
+  padding-inline-end: 10px;
+}
+
+a, .bot-line {
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+}
+a:hover, .bot-line:hover {
+  color: black;
+  border-color: black;
+}
+
+.fullwidth {
+  width: 100%;
+}
+
+.desc-anim {
+  animation-name: inline-upmo6a9;
+  animation-duration: 3s;
+}
+@keyframes inline-upmo6a9 {
+  from {
+    color: #c84c8d;
+  }
+  to {
+    color: white;
+  }
+}
+
+.desc-txt {
+  width: 400px;
+  margin: auto;
+  letter-spacing: 0.5px;
+  display: block;
+  color: white;
+}
+
+.bot-line {
+  display: block;
+  border-bottom: 1px solid white;
+  color: white;
+  padding: 5px;
+  margin: 2% auto auto;
+  cursor: pointer;
+}
+
+.sign-up-form, .schedule-form {
+  background: white;
+  width: 40%;
+  border-radius: 10px;
+  margin: auto;
+  text-align: center;
+  padding: 20px 50px 50px;
+}
+
+.schedule-form {
+  width: 50%;
+}
+
+.MuiTextField-root label {
+  font-size: 0.8rem;
+}
+
+.MuiTextField-root, .priority {
+  margin-top: 1% !important;
+}
+
+.MuiOutlinedInput-input {
+  text-align: center;
+  padding: 10px !important;
+  font-size: 18px;
+}
+
+.msg {
+  color: #d80e74;
+  font-size: 14px;
+}
+
+.field {
+  margin: 1.5rem 0;
+}
+
+.field-note {
+  font-size: 0.8rem;
+  line-height: 0.9rem;
+  display: block;
+  color: #c84c8d;
+  margin-bottom: 1rem;
+}
+
+.MuiInputLabel-outlined {
+  transform: translate(14px, 3px) scale(1) !important;
+}
+
+.MuiInputLabel-shrink {
+  transform: translate(14px, -15px) scale(0.75) !important;
+}
+
+.course-name {
+  width: 54%;
+}
+
+.credits, .thw {
+  width: 9%;
+  margin-left: 1% !important;
+}
+
+.priority {
+  width: 13%;
+  margin-left: 1% !important;
+}
+.priority .MuiOutlinedInput-input {
+  text-align: left;
+}
+
+.thw {
+  width: 14%;
+}
+
+.add-button {
+  text-align: left;
+}
+
+.option {
+  text-transform: capitalize;
+}
+
+.input-label {
+  z-index: 1;
+  background: white;
+}
+
+.field-divider {
+  margin-top: 4%;
+}
+
+/*# sourceMappingURL=OnBoard.css.map */
