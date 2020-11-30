@@ -10,6 +10,7 @@ router.get('/register', function(req, res) {
         res.render('register', { });
     });
 
+//create new user
 router.post('/register', function(req, res, next) {
     const user = new Account({username: req.body.username, email:req.body.email});
 
