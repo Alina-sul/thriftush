@@ -1,11 +1,15 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 
 function Logo() {
     return (
-        <span>
-            {value}
+        <>
+        <div className="logo">
+            THRIFTUSH
+        </div>
+        <span style={{fontSize: 14, letterSpacing: 1}} className="logo-text">
+            חנות יד שניה שיתופית
         </span>
+        </>
     );
 }
 
