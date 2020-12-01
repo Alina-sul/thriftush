@@ -8,7 +8,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.20.0",
-    "formik": "^2.2.1",
+    "formik": "^2.2.3",
     "axios": "^0.21.0",
     "formik": "^2.1.5",
     "formik-material-ui": "^3.0.0",
