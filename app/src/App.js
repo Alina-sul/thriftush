@@ -9,10 +9,10 @@ import Header from "./Components/fixed-elements/Header";
 function App() {
   return (
       <>
-      <Header/>
       <Router>
         <AuthProvider>
             <DataProvider>
+                <Header/>
                 <Routes/>
             </DataProvider>
         </AuthProvider>
