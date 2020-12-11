@@ -1,2 +1,3 @@
-import OnBoard from "../../pages/OnBoard/OnBoard";
+import OnBoard from './OnBoard';
+
 export default OnBoard;
