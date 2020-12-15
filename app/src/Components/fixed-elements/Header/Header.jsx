@@ -33,9 +33,8 @@ function Header() {
   return (
     <AppBar position="sticky" className="header">
       <Logo />
-      <MenuItems/>
+      <MenuItems />
     </AppBar>
-
   );
 }
 
