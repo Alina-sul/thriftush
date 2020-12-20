@@ -1,0 +1,17 @@
+.top-row {
+  padding: 1rem 3rem;
+  background: #671a8a;
+  color: white;
+  height: 30%;
+  word-wrap: break-word;
+  overflow: scroll;
+  font-weight: 500;
+}
+.top-row p {
+  text-align: center;
+  font-size: 1rem;
+  line-height: 1.6rem;
+  letter-spacing: 0.04rem;
+}
+
+/*# sourceMappingURL=TopRow.css.map */

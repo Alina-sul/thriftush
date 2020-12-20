@@ -1,9 +1,12 @@
 import React from 'react';
+import TopRow from './TopRow';
 
-function Dashboard(props) {
-    return (
-        <div>hi</div>
-    );
+function Dashboard() {
+  return (
+    <>
+      <TopRow />
+    </>
+  );
 }
 
 export default Dashboard;
