@@ -4,11 +4,13 @@
     height: 11rem;
     margin: 3rem auto auto;
   }
+
 }
+
 .top-row {
   padding: 1rem 2rem;
-  background: #f7e7ff;
-  background: radial-gradient(circle, #f7e7ff 0%, #9ecaff 70%, #f9b3ff 95%);
+  background: rgb(247,231,255);
+  background: radial-gradient(circle, rgba(247,231,255,1) 0%, rgba(158,202,255,1) 70%, rgba(249,179,255,1) 95%);
   color: #000000;
   height: 30%;
   word-wrap: break-word;
@@ -16,12 +18,19 @@
   font-weight: 500;
   background-attachment: fixed;
 }
+  .top-row p {
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.6rem;
+    letter-spacing: 0.04rem;
+  }
 
-.top-row p {
-  text-align: center;
-  font-size: 1rem;
-  line-height: 1.6rem;
-  letter-spacing: 0.04rem;
-}
 
-/*# sourceMappingURL=TopRow.css.map */
+
+
+
+
+
+
+
+
