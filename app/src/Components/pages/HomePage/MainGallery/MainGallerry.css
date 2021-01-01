@@ -1,13 +1,25 @@
 .main-gallery {
   padding: 3rem;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   flex-direction: row;
   flex-wrap: wrap;
 }
 
+.MuiPaper-root.MuiCard-root.MuiPaper-elevation1.MuiPaper-rounded:hover {
+  -webkit-box-shadow: 0 0 15px 0 rgba(46, 123, 255, 0.9);
+  -moz-box-shadow: 0 0 15px 0 rgba(46, 123, 255, 0.9);
+  box-shadow: 0 0 15px 0 rgba(46, 123, 255, 0.9);
+}
+
 .MuiCardMedia-root.item-block {
   height: 20rem;
+}
+
+.MuiCardContent-root {
+  padding: 16px;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
 }
 
 .MuiCard-root {
@@ -15,20 +27,34 @@
   display: flex;
   flex-direction: column;
   flex: 0 15.5%;
-  margin: 1rem;
+  margin: 2rem;
 }
 
-@media (max-width: 1300px) {
+.size-circle {
+  position: absolute;
+  right: 3%;
+  background: white;
+  border-radius: 100%;
+  top: 2%;
+  padding: 5%;
+  font-size: 0.9rem;
+  font-weight: 600;
+  height: 4.5%;
+  width: 8%;
+  text-align: center;
+}
+
+@media (max-width: 1500px) {
   .MuiCard-root {
-    flex: 0 28.5%;
+    flex: 0 25%;
   }
 }
-@media (max-width: 770px) {
+@media (max-width: 862px) {
   .MuiCard-root {
-    flex: 0 40%;
+    flex: 0 38%;
   }
 }
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   .MuiCard-root {
     flex: 0 100%;
   }
