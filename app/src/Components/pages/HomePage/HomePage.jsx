@@ -1,12 +1,14 @@
 import React from 'react';
 import TopRow from './TopRow';
+import MainGallery from "./MainGallery";
 
-function Dashboard() {
+function HomePage() {
   return (
     <>
       <TopRow />
+      <MainGallery/>
     </>
   );
 }
 
-export default Dashboard;
+export default HomePage;

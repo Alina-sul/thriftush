@@ -1,0 +1,24 @@
+.main-gallery {
+  padding: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+
+.MuiCardMedia-root.item-block{
+  height: 20rem;
+}
+
+.MuiCard-root {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  flex: 0 15.5%;
+  margin: 1rem;
+};
+
+@media(max-width:1300px){.MuiCard-root{flex:0 28.5%;}}
+@media(max-width:770px){.MuiCard-root{flex:0 40%;}}
+@media(max-width:600px){.MuiCard-root{flex:0 100%;}}

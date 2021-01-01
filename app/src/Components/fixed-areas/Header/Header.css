@@ -4,8 +4,13 @@
 }
 
 .MuiButtonBase-root.MuiButton-root.MuiButton-contained {
-  background-color: #d80e74;
+  background-color: #ff55b3;
   color: white;
+  font-weight: bolder;
+  border-radius: 50px;
+}
+.MuiButtonBase-root.MuiButton-root.MuiButton-contained:hover {
+  background: #006fff;
 }
 
 /*# sourceMappingURL=Header.css.map */

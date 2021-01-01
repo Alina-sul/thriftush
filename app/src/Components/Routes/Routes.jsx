@@ -1,7 +1,7 @@
 import React, {useContext} from 'react';
 import {Switch, Route, Redirect} from "react-router-dom";
 import {Context} from '../Context/Auth';
-import Dashboard from "../pages/Dashboard";
+import HomePage from "../pages/HomePage";
 
 function Routes() {
     const context = useContext(Context);
@@ -17,7 +17,7 @@ function Routes() {
 
                 </Route>
                 <Route key="/" exact path="/">
-                    <Dashboard />
+                    <HomePage />
                 </Route>
                 <Route key="*" path="*">
                     <Redirect to={authRedirect} />
