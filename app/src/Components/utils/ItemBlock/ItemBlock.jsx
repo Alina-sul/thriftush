@@ -4,20 +4,22 @@ import { Card, CardActionArea, CardMedia, CardActions, CardContent } from '@mate
 
 function ItemBlock(props) {
 
-    const {image,title,size} = props.data;
+    const {image,title,size,price} = props.data;
 
     console.log(props);
     return (
         <Card>
             <CardActionArea>
-                <div className="size-circle">{size}</div>
+                {
+                    (size) ? <div className="size-circle">{size}</div> : null
+                }
                 <CardMedia
                     image={image}
                     title={title}
                     className="item-block"
                 />
                 <CardContent>
-                    {title}
+                    {title} <b>{price}₪</b>
                 </CardContent>
             </CardActionArea>
         </Card>
