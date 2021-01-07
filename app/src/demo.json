@@ -18,7 +18,10 @@
             "color": "black",
             "title": "טייץ שחור",
             "price": 50,
-            "size": "XL"
+            "size": "XL",
+            "product-state": "כמו חדש",
+            "delivery": "אין",
+            "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
           },{
           "id": "02",
           "image": "https://dl.airtable.com/.attachmentThumbnails/2f8bb7e3f712eaab5148fcc0757de91d/7ffaae5e",
@@ -28,7 +31,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "XL"
+          "size": "XL",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "03",
           "image": "https://dl.airtable.com/.attachmentThumbnails/b8d7d3a590c40012d5a76d3862fda206/b154afbe",
@@ -38,7 +44,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": ""
+          "size": "",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "04",
           "image": "https://dl.airtable.com/.attachmentThumbnails/4ab79f2457b3a9a56f12b290eefd3c9b/251f8728",
@@ -48,7 +57,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "M"
+          "size": "M",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "05",
           "image": "https://dl.airtable.com/.attachmentThumbnails/adabfb075cbe80b45883e3a7b1a51b54/6ee28996",
@@ -58,7 +70,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "S"
+          "size": "S",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "06",
           "image": "https://dl.airtable.com/.attachmentThumbnails/ea983ee6fa6ff17a10524cea019a5c05/c4e8750c",
@@ -68,7 +83,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "S"
+          "size": "S",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "07",
           "image": "https://dl.airtable.com/.attachmentThumbnails/34414427bb9bbdca9a0c9edd7dffd67d/eba2e177",
@@ -78,7 +96,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "M"
+          "size": "M",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "08",
           "image": "https://dl.airtable.com/.attachmentThumbnails/1fe3710536ef75ca780267759b10e34e/3e8c1097",
@@ -88,7 +109,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "M"
+          "size": "M",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "09",
           "image": "https://dl.airtable.com/.attachmentThumbnails/c00f05f9d341bc415ed77f7a38702466/1e0c342b",
@@ -98,7 +122,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "M"
+          "size": "M",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "10",
           "image": "https://dl.airtable.com/.attachmentThumbnails/4f8815b6294453a335f382221e66e7a3/167b6be0",
@@ -108,7 +135,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "L"
+          "size": "L",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         },{
           "id": "11",
           "image": "https://dl.airtable.com/.attachmentThumbnails/909caf44454a65012294c9f3efb14b4d/68621816",
@@ -118,7 +148,10 @@
           "color": "red",
           "title": "מגפיים אדומות של דר מארטינס",
           "price": 50,
-          "size": "L"
+          "size": "L",
+          "product-state": "כמו חדש",
+          "delivery": "אין",
+          "description": "ג'ינס 7/8 חדש של גלמורוס, עם הטיקט, מעולם לא נלבש. גזרת mom, קרעים בקצה ניתן לאסוף מאזור ראשל''צ או עמק חפר"
         }
         ]
       }
