@@ -1,15 +1,21 @@
 import React, {useEffect} from 'react';
 import PropTypes from 'prop-types';
-import { Card, CardActionArea, CardMedia, CardActions, CardContent } from '@material-ui/core';
+import { Card, CardActionArea, CardMedia, CardContent } from '@material-ui/core';
 
 function ItemBlock(props) {
 
     const {image,title,size,price} = props.data;
+    const {setOpen} = props;
+
+    const handleClick = () => {
+        setOpen(true)
+    };
+
 
     console.log(props);
     return (
         <Card>
-            <CardActionArea>
+            <CardActionArea onClick={handleClick}>
                 {
                     (size) ? <div className="size-circle">{size}</div> : null
                 }
@@ -27,6 +33,7 @@ function ItemBlock(props) {
 }
 
 ItemBlock.propTypes = {
+    setOpen: PropTypes.func,
     data: PropTypes.shape(
                     {
                         id: PropTypes.string,
